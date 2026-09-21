@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c0da6ddb4772d4cd7bbd1719",
+  "owner": "ffympwvsc",
+  "repo": "page-8ae3c0c948cb3558cbf561fa",
+  "title": "白嫖云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8ae3c0c948cb3558cbf561fa",
+      "a": "白嫖云",
+      "b": "稳定全球clash加速器",
+      "entity": "白嫖云",
+      "brand": "白嫖云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d9659fec63e0a00b6b405b1f557db8a042c02168861cdf5140ce3ebb170f541f",
+      "content": {
+        "primary_entity": "白嫖云",
+        "keyword1": "白嫖云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，Windows 可用 Clash Verge、Clash for Windows，macOS 可用 ClashX、Clash Verge，Android 可用 Clash Meta for Android，iOS 可用 Shadowrocket、Stash，路由器可刷 OpenWrt 搭配 Clash 内核。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先按设备数量与月流量挑套餐，再导入 Clash 订阅开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连上白嫖云",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付价格从 ¥15 到 ¥85，年付方案为 ¥150/年、¥350/年、¥850/年，流量覆盖 100GB 至 1000GB，同时在线设备从 3 台到 20 台。Clash 用户可在 Windows、macOS、Android、iOS 与路由器上导入订阅，按日常上网、流媒体与游戏延迟等需求选择对应线路与节点池。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路特性出发，快速判断哪一档更适合。",
+          "AI_FEATURES_TITLE": "套餐特点速览",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合轻度浏览与日常社交。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线与全节点流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，提供 VIP 高带宽节点与定制路由。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路特性取向",
+          "AI_FEATURE_TITLE_3": "团队多人共享",
+          "AI_GUIDE_INTRO": "选服务、查适配、配订阅，三步完成 Clash 客户端接入。",
+          "AI_GUIDE_TITLE": "三步开始使用白嫖云",
+          "AI_HERO_INTRO": "白嫖云面向 Clash 用户提供多档订阅方案，覆盖基础版、旗舰版与团队版，按流量、设备数与线路特性区分。Windows、macOS、Android、iOS 与路由器均可按客户端文档导入订阅，按自己的使用场景选择合适档位。",
+          "AI_HERO_SUBTITLE": "多档 Clash 订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐，流量 100GB 起",
+          "AI_HIGHLIGHT_2": "年付方案更省，最低 ¥150/年",
+          "AI_HIGHLIGHT_3": "多平台 Clash 客户端可用",
+          "AI_PLANS_INTRO": "基础版适合 1 至 3 台设备轻度使用；旗舰版兼顾流媒体与游戏延迟，支持 5 台设备；团队版面向多人多设备，每月 1000GB 流量并含 VIP 节点。",
+          "AI_PLANS_TITLE": "对比套餐，按需选择",
+          "AI_STEP_TEXT_1": "根据月流量、同时在线设备数与线路需求，在基础版、旗舰版、团队版中选择一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，查看对应部署方式与配置要求。",
+          "AI_STEP_TEXT_3": "在 Clash 客户端中依照文档导入订阅，随后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "白嫖云多档 Clash 订阅",
+          "AI_FAQ_ANSWER_1": "只看两点：日常月流量多大、要同时连几台设备。流量 100GB 以内且设备不超过 3 台，基础版就够；需要更多流量和设备，再看旗舰版或团队版。",
+          "AI_FAQ_ANSWER_2": "启动客户端后进入订阅或配置页面，粘贴订阅链接并更新即可。不同客户端操作路径略有差异，可参考对应客户端文档完成导入。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。超出设备数时可在套餐页面升级到更高档位。",
+          "AI_FAQ_ANSWER_4": "月付适合短期或试用需求，年付总价更低。基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元，可按预算和使用时长选择。",
+          "AI_FAQ_ANSWER_5": "Wi-Fi 环境下多设备连接时，建议选择旗舰版或团队版，它们提供更多的并发设备数与更高流量额度，能减少切换和限速带来的影响。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "个人用户适合选择哪档套餐？",
+          "AI_FAQ_QUESTION_2": "订阅链接导入客户端要怎么做？",
+          "AI_FAQ_QUESTION_3": "套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选更合适？",
+          "AI_FAQ_QUESTION_5": "Wi-Fi 环境下多设备连接该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "almdk.cn",
+    "host": "almdk.cn"
+  },
+  "file_hashes": {
+    "index.html": "d1b23de487bb8fd16f8d511f71c4dd804a79c020ced5308c76046b9c6de5d6b3",
+    "sitemap.xml": "ea8100adb17b19d4c75c0215e90e3c8aec41131e75f0e406f52d4f5be7e37557",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "84104403ad9652e677467a68dc035f9881783593ff37fe6ba31b48529490cea7",
+    "robots.txt": "c92b4723880bfd3fb76b731eae51475b97066666d2652562c74339896f08f938",
+    "b0b728cf5a91579fa141a142d8df0e42.txt": "d0eda57231cac4bab381a9eef91ec4ec9bc9ff6beff03ccb9fd50468a8b35682"
+  },
+  "revision": "235f0de9df312982cfe85b364416a445efcb3f55b204b07cdfbb057791bc52d8"
+}
